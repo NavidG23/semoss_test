@@ -1,0 +1,15 @@
+{
+   "pixelExpression":"Py ( \"<encode>2+2</encode>\" ) ;",
+   "isMeta":false,
+   "output":[
+      {
+         "output":"4",
+         "operationType":[
+            "OPERATION"
+         ]
+      }
+   ],
+   "operationType":[
+      "CODE_EXECUTION"
+   ]
+}
